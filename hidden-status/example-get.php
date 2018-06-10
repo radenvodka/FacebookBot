@@ -7,8 +7,8 @@ require_once("sdata-modules.php");
  * @Last Modified time: 2018-06-10 18:12:33
  */
 
-$access_token = 'EAACEdEose0cBAF6GZAtGvUH35ZCH4oqxPSYZC5KgDQIduabvdIBy0ZCvRRZCUigMuWcSD6yubRh8yVOv9N5ZCoZCZCbZATv4BboV247zwz5zK4KPq5SkPvnQERkBm3WrIg6Divtno4a8ULIs2WTBJovTVgMmcVBFNq5M7iDfOGvNOZA90CwMucUeR1yrDCz2PCbHXpkgDxNBz1QgZDZD';
-$cookies 		= 'sb=vPhxWpQfQbIorDEyKRqRsyR9; datr=vPhxWnwZUjE38srn1oJFQuca; locale=id_ID; dpr=1.25; m_pixel_ratio=1.25; c_user=100006429181824; xs=40%3AnfKI_byBZX95-Q%3A2%3A1528569854%3A2927%3A11262; pl=n; wd=1536x759; fr=0gh7cjnIyBmKuQQFK.AWXzJxynF74670Mcb6ukDtpRVaQ.Bacfi8.ad.Fsc.0.0.BbHMgq.AWVGuaiz; act=1528613014108%2F16; presence=EDvF3EtimeF1528613018EuserFA21B06429181824A2EstateFDt3F_5b_5dG528613018324CEchFDp_5f1B06429181824F195CC';
+$access_token = 'EAACEdEose0cBAF6GZAtGvUH35ZCH4oqxPSYZC5KgDQIduabvdIBy0ZCvRRZCUigMuWcSD6yubRh8yVOv9N5ZCoZCZCbZATv4BboV247zwzDZD';
+$cookies 		= 'sb=; datr=; locale=id_ID; dpr=1.25; m_pixel_ratio=1.25; c_user=; xs=40%3AnC';
 
 $prof_id 		= ''; // id profile fb
 
